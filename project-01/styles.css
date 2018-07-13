@@ -167,6 +167,19 @@ a.social:hover {
   clear: both;
 }
 
+footer li {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.fa {
+  color: black;
+}
+
+.fa:hover {
+  color: gray;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
 
@@ -201,6 +214,12 @@ a.social:hover {
     font-size: 1.3em;
     max-width: 1200px;
     margin: 40px auto;
+  }
+
+  footer li {
+    padding-top: 25px;
+    padding-bottom: 35px;
+    color: red;
   }
 
 }
