@@ -85,6 +85,7 @@ header .profile-image:hover {
 }
 
 .experience-header .code-icon {
+  margin-top: 60px;
   border-radius: 50%;
   border: 3px solid white;
 }
@@ -210,6 +211,10 @@ footer li {
 }
 
 .fa:hover {
+  color: gray;
+}
+
+.gray-text  {
   color: gray;
 }
 
